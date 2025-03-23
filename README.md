@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/lizSilva27/manageLandingPage-FrontendMentor]
-- Live Site URL: [https://testimonial-slider-ft.netlify.app/]
+- Live Site URL: [https://manage-lp-ft.netlify.app/]
 
 ## My process
 
