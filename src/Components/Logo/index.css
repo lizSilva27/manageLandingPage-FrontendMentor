@@ -1,0 +1,13 @@
+.customStyles {
+  transition: fill 0.3s ease;
+}
+.customStyles:hover path {
+  fill:  hsl(12, 88%, 59%);
+}
+
+.customStylesX {
+  transition: fill 0.3s ease;
+}
+.customStylesX:hover path {
+  stroke:  hsl(12, 88%, 59%);
+}
